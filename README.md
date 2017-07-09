@@ -12,4 +12,4 @@ Since I was in a hurry I did the sqrt function with a divide and conquer algorit
 
 ### Start the program
 
-- ```php computorv1 [equations]```
+- ```php computorv1 [equation]```
